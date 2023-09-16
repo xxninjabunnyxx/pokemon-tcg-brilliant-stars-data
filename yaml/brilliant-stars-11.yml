@@ -1,0 +1,98 @@
+---
+id: swsh9-11
+name: Mothim
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '110'
+types:
+- Grass
+evolvesFrom: Burmy
+attacks:
+- name: Raid
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: 30+
+  text: If this Pokémon evolved from Burmy during this turn, this attack does 90 more
+    damage.
+- name: Gust
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '80'
+  text: ''
+weaknesses:
+- type: Lightning
+  value: "×2"
+resistances:
+- type: Fighting
+  value: "-30"
+set:
+  id: swsh9
+  name: Brilliant Stars
+  series: Sword & Shield
+  printedTotal: 172
+  total: 186
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: BRS
+  releaseDate: 2022/02/25
+  updatedAt: 2022/02/23 09:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh9/symbol.png
+    logo: https://images.pokemontcg.io/swsh9/logo.png
+number: '11'
+artist: Akira Komayama
+rarity: Rare
+flavorText: It flutters around at night and steals honey from the Combee hive.
+nationalPokedexNumbers:
+- 414
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/swsh9/11.png
+  large: https://images.pokemontcg.io/swsh9/11_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh9-11
+  updatedAt: 2023/09/16
+  prices:
+    normal:
+      low: 0.01
+      mid: 0.12
+      high: 4.0
+      market: 0.07
+      directLow: 0.06
+    reverseHolofoil:
+      low: 0.05
+      mid: 0.17
+      high: 2.0
+      market: 0.11
+      directLow: 0.09
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh9-11
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.06
+    lowPrice: 0.02
+    trendPrice: 0.04
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.16
+    reverseHoloLow: 0.03
+    reverseHoloTrend: 0.09
+    lowPriceExPlus: 0.02
+    avg1: 0.04
+    avg7: 0.05
+    avg30: 0.06
+    reverseHoloAvg1: 0.3
+    reverseHoloAvg7: 0.15
+    reverseHoloAvg30: 0.17

@@ -1,0 +1,93 @@
+---
+id: swsh9-45
+name: Raichu V
+supertype: Pokémon
+subtypes:
+- Basic
+- V
+hp: '200'
+types:
+- Lightning
+rules:
+- 'V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.'
+attacks:
+- name: Fast Charge
+  cost:
+  - Lightning
+  convertedEnergyCost: 1
+  damage: ''
+  text: If you go first, you can use this attack during your first turn. Search your
+    deck for a Lightning Energy card and attach it to this Pokémon. Then, shuffle
+    your deck.
+- name: Dynamic Spark
+  cost:
+  - Lightning
+  - Lightning
+  convertedEnergyCost: 2
+  damage: 60×
+  text: You may discard any amount of Lightning Energy from your Pokémon. This attack
+    does 60 damage for each card you discarded in this way.
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: swsh9
+  name: Brilliant Stars
+  series: Sword & Shield
+  printedTotal: 172
+  total: 186
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: BRS
+  releaseDate: 2022/02/25
+  updatedAt: 2022/02/23 09:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh9/symbol.png
+    logo: https://images.pokemontcg.io/swsh9/logo.png
+number: '45'
+artist: MUGENUP
+rarity: Rare Holo V
+nationalPokedexNumbers:
+- 26
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/swsh9/45.png
+  large: https://images.pokemontcg.io/swsh9/45_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh9-45
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 7.44
+      mid: 9.93
+      high: 25.95
+      market: 8.08
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh9-45
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 3.0
+    lowPrice: 1.99
+    trendPrice: 4.08
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 1.99
+    avg1: 4.1
+    avg7: 4.04
+    avg30: 3.0
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0
